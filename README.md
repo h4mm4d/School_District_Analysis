@@ -29,9 +29,11 @@ The schools that are in bottom spends more money per students than the ones on t
 ### Math and Reading Scores by Grade
 There seems to be no correlation between math and reading scores by grades. 
 Reading Scores Grouped by Grades
+
 ![image](https://user-images.githubusercontent.com/86130579/144741094-a9d3f6a8-b3ba-4bd8-b9a3-542ec76dddff.png)
 
 Math Scores Grouped by Grades
+
 ![image](https://user-images.githubusercontent.com/86130579/144741137-80f7bdd4-3f41-4d44-924b-770304e3b037.png)
 
 
