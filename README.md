@@ -46,4 +46,7 @@ There are no significant difference between grades of a medium sized and small s
 ![image](https://user-images.githubusercontent.com/86130579/144741314-72aec295-deb0-4de2-8e9d-745b3fa1dde8.png)
 
 ## Summary
-From this analysis we found out that charter schools do better than district schools. Also, smaller school tens to do better than large ones and spending more money per student does not really mean better performance. 
+Here are few takeaway from this analysis 
+- Spending more money per student does not men better performance
+- Charter school perform better than district schools
+- Smaller schools do better than large sized schools. 
