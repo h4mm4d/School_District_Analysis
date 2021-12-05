@@ -23,13 +23,13 @@ Jupyter Notebook 6.3.0 was the main tool used with Pandas 1.2.4, NumPY 1.20 and 
 In this task it was discovered that the top five schools are charter schools and bottom five are all district schools. Therefore, it is safe assume that charter schools overall perform better than 
 The schools that are in bottom spends more money per students than the ones on top 
 ![image](https://user-images.githubusercontent.com/86130579/144741083-26084bb0-e4ef-4146-9d76-f0dbd5eab1d1.png)
+
 ![image](https://user-images.githubusercontent.com/86130579/144741301-9dd3050e-9005-419f-853d-1d9f83b6ffb2.png)
 
 ### Math and Reading Scores by Grade
 There seems to be no correlation between math and reading scores by grades. 
 Reading Scores Grouped by Grades
 ![image](https://user-images.githubusercontent.com/86130579/144741094-a9d3f6a8-b3ba-4bd8-b9a3-542ec76dddff.png)
-
 
 Math Scores Grouped by Grades
 ![image](https://user-images.githubusercontent.com/86130579/144741137-80f7bdd4-3f41-4d44-924b-770304e3b037.png)
